@@ -4,7 +4,7 @@
 
 Со стандартный подходом с использованием TextCNN + BiLSTM не смог добиться F1 > 93%, так что решил использовать трансформеры
 
-Финальное решение в файле [ag-new-classifier-transformers.ipynb](./ag-new-classifier-transformers.ipynb)
+Финальное решение в файле [ag-news-classifier-transformers.ipynb](./ag-news-classifier-transformers.ipynb)
 
 ## Задание
 
